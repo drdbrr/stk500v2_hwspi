@@ -1,0 +1,4 @@
+#define F_CPU 20000000UL
+#define BAUD 115200
+
+
